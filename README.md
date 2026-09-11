@@ -8,6 +8,8 @@ Types of fruit:
 1. Watermelon
 2. Mango
 3. Banana
+4. Pineapple
+5. Cherry
 
 (More to be added in future updates)
 
